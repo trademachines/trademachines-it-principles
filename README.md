@@ -8,4 +8,4 @@
 | __Data Driven Decisions__<br>We based our decision on data rather than Beliefs.| __Avoid Complexity__ | __API First__ |
 | __Cost Efficiency__<br>Find the correct balance between cost and value.| __Monitor Business Processes__ | __Automate Everything__ |
 | __Care About Our Customers__<br>Feel responsible for our customer happiness.|| __Start With Plan A__<br>and then find something that works |
-||| __Challenge The Po__ |
+||| __Challenge The Product Owner__<br>We ask questions, because we don't want to follow blindly but find a balance between user value and technical feasibility. |
