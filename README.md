@@ -3,7 +3,7 @@
 ## Strategic Goals
 
 ### Reduced Time To Market
-Fast feedback loops to learn.
+We want to close our feedback loops as soon as possible. Therefore we deliver value to our users rather sooner than later.
 
 ### Scalability
 Plan for scalability
