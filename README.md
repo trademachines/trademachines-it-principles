@@ -2,23 +2,23 @@
 
 ## Strategic Goals
 
-### Reduced Time To Market
+### Reduce Time To Market
 We want to close our feedback loops as soon as possible. Therefore we deliver value to our users rather sooner than later.
 
-### Scalability
+### Assure Scalability
 Our business grows fast, so we make sure that our infrastructure never becomes the bottleneck.
 
-### Talented People
+### Practice Independent (yet Guided Approach) - Talented People
 We know why we do things, we decide how to approach them and deliberately practice our skills.
 
-### Data Driven Decisions
-We based our decision on data rather than beliefs.
+### Take/Make Data Driven Decisions
+We base our decisions on data rather than beliefs.
 
-### Costs Efficiency
+### Measure Cost Efficiency
 Find the correct balance between cost and value.
 
 ### Care About Our Customers
-Our success depends on our clients' happiness. 
+Our success depends on our clients' happiness. We feel responsible for providing quality outcome, even though we don't have direct contact with customer.
 
 
 ## Architectural Principles
