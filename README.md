@@ -44,6 +44,7 @@ Then promote them globally. We don't want to put more constraint on our teams th
 ### API First
 ### Automate Everything
 ### Start With Plan A
-And then find something that works.
+We are bold and start with something that works right now. From there we inspect and adapt to our needs.
+
 ###  Challenge The Product Owner
 We ask questions, because we don't want to follow blindly but find a balance between user value and technical feasibility.
