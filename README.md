@@ -43,6 +43,8 @@ Then promote them globally. We don't want to put more constraint on our teams th
 ### You Build It, You Run It
 ### API First
 ### Automate Everything
+We keep reptitive work to a minimum and build automation into our tools wherever its feasible.
+
 ### Start With Plan A
 And then find something that works.
 ###  Challenge The Product Owner
