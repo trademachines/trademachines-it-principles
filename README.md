@@ -6,7 +6,7 @@
 We want to close our feedback loops as soon as possible. Therefore we deliver value to our users rather sooner than later.
 
 ### Scalability
-Plan for scalability
+Our business grows fast, so we make sure that our infrastructure never becomes the bottleneck.
 
 ### Talented People
 We know why we do things, we decide how to approach them and deliberately practice our skills.
@@ -18,7 +18,7 @@ We based our decision on data rather than Beliefs.
 Find the correct balance between cost and value.
 
 ### Care About Our Customers
-Feel responsible for our customer happiness.
+Our success depends on our clients' happiness. 
 
 
 
