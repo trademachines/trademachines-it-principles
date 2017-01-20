@@ -30,7 +30,8 @@ Our success depends on our clients' happiness.
 ### Monitor The Business
 ### Focus On Our Business
 ### Reactive Manifesto
-
+Developing systems according to Reactive Manifesto (http://www.reactivemanifesto.org/) allows us to create flexible, loosely-coupled and scalable applications.
+Reactive Programming combined with Reactive Systems Design is a main tools for dealing with technical problems on backend which occurs when data and load is constantly growing and high availability is required.
 
 
 ## Design And Delivery
