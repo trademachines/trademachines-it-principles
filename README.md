@@ -12,15 +12,13 @@ Our business grows fast, so we make sure that our infrastructure never becomes t
 We know why we do things, we decide how to approach them and deliberately practice our skills.
 
 ### Data Driven Decisions
-We based our decision on data rather than Beliefs.
+We based our decision on data rather than beliefs.
 
 ### Costs Efficiency
 Find the correct balance between cost and value.
 
 ### Care About Our Customers
 Our success depends on our clients' happiness. 
-
-
 
 
 ## Architectural Principles
@@ -38,7 +36,7 @@ Our success depends on our clients' happiness.
 ## Design And Delivery
 
 ### Make Local Decision
-And promote them globally.
+Then promote them globally. We don't want to put more constraint on our teams than necessary.
 
 ### Measure All Things
 
