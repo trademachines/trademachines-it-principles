@@ -27,7 +27,7 @@ Our success depends on our clients' happiness. We feel responsible for providing
 
 
 ### Immutable Architecture
-Optimize for rebuilding not for repairing
+To avoid snowflakes, do not change your services replace them entirely by a new version. Optimize for rebuilding not for repairing
 
 ### Decoupled Architecture
 If a service is not available, it's impact on other services should be minimum (use queue systems and async call)
