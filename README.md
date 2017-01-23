@@ -24,11 +24,20 @@ Our success depends on our clients' happiness. We feel responsible for providing
 ## Architectural Principles
 
 ### AWS First
+
+
 ### Immutable Architecture
+To avoid snowflakes, do not change your services replace them entirely by a new version. Optimize for rebuilding not for repairing
+
 ### Decoupled Architecture
+If a service is not available, it's impact on other services should be minimum (use queue systems and async call)
+
 ### Avoid Complexity
+
 ### Monitor The Business
+
 ### Focus On Our Business
+
 ### Reactive Manifesto
 Developing systems according to Reactive Manifesto (http://www.reactivemanifesto.org/) allows us to create flexible, loosely-coupled and scalable applications.
 Reactive Programming combined with Reactive Systems Design is a main tools for dealing with technical problems on backend which occurs when data and load is constantly growing and high availability is required.
@@ -41,8 +50,11 @@ Then promote them globally. We don't want to put more constraint on our teams th
 
 ### Measure All Things
 
+
 ### You Build It, You Run It
+
 ### API First
+
 ### Automate Everything
 We keep reptitive work to a minimum and build automation into our tools whenever and wherever its feasible.
 
