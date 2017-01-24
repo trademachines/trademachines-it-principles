@@ -21,7 +21,7 @@ Find the correct balance between cost and value.
 Our success depends on our clients' happiness. We feel responsible for providing quality outcome, even though we don't have direct contact with customer.
 
 
-## Architectural Principles
+## Architectural
 
 ### AWS First
 
