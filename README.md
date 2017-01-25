@@ -24,17 +24,12 @@ Our success depends on our clients' happiness. We feel responsible for providing
 ## Architectural
 
 ### AWS First
-Before integrate our application with services or solutions we are checking if such service is provided by AWS. Then we are making decision which one should we integrate.
 
 ### Immutable Architecture
 To avoid snowflakes, do not change your services replace them entirely by a new version. Optimize for rebuilding not for repairing
 
 ### Decoupled Architecture
 If a service is not available, it's impact on other services should be minimum (use queue systems and async call)
-
-### The Boy Scout Rule
-The Boy Scouts have a rule: "Always leave the campground cleaner than you found it." If you find a mess on the ground, you clean it up regardless of who might have made the mess. You intentionally improve the environment for the next group of campers. Actually the original form of that rule, written by Robert Stephenson Smyth Baden-Powell, the father of scouting, was "Try and leave this world a little better than you found it."
-http://programmer.97things.oreilly.com/wiki/index.php/The_Boy_Scout_Rule
 
 ### Avoid Complexity
 We are designing our systems based on famous Einstein's quote - "Everything should be made as simple as possible, but not simpler."
