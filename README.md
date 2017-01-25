@@ -25,7 +25,6 @@ Our success depends on our clients' happiness. We feel responsible for providing
 
 ### AWS First
 
-
 ### Immutable Architecture
 To avoid snowflakes, do not change your services replace them entirely by a new version. Optimize for rebuilding not for repairing
 
@@ -33,6 +32,7 @@ To avoid snowflakes, do not change your services replace them entirely by a new 
 If a service is not available, it's impact on other services should be minimum (use queue systems and async call)
 
 ### Avoid Complexity
+We are designing our systems based on famous Einstein's quote - "Everything should be made as simple as possible, but not simpler."
 
 ### Monitor The Business
 
@@ -56,7 +56,7 @@ Then promote them globally. We don't want to put more constraint on our teams th
 ### API First
 
 ### Automate Everything
-We keep reptitive work to a minimum and build automation into our tools whenever and wherever its feasible.
+We keep repetitive work to a minimum and build automation into our tools whenever and wherever its feasible.
 
 ### Start With Plan A
 We are bold and start with something that works right now. From there we inspect and adapt to our needs.
