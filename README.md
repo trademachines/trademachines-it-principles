@@ -8,39 +8,38 @@ We want to close our feedback loops as soon as possible. Therefore we deliver va
 ### Assure Scalability
 Our business grows fast, so we make sure that our infrastructure never becomes the bottleneck.
 
-### Practice Independent (yet Guided Approach) - Talented People
-We know why we do things, we decide how to approach them and deliberately practice our skills.
-
-### Take/Make Data Driven Decisions
+### Make Data Driven Decisions
 We base our decisions on data rather than beliefs.
 
 ### Measure Cost Efficiency
 Find the correct balance between cost and value.
 
 ### Care About Our Customers
-Our success depends on our clients' happiness. We feel responsible for providing quality outcome, even though we don't have direct contact with customer.
+Our success depends on our clients' happiness. We feel responsible for providing quality outcome.
+
+### Constantly learning
+We don't know everything. Thats why constantly learning is important to us.
 
 
 ## Architectural
 
 ### AWS First
-
+We prefer AWS Services over self-hosted over self-built solutions to keep us focused on our domain.
 
 ### Immutable Architecture
-To avoid snowflakes, do not change your services replace them entirely by a new version. Optimize for rebuilding not for repairing
+To avoid snowflakes, do not change your services replace them. Optimize for rebuilding not for repairing.
 
 ### Decoupled Architecture
-If a service is not available, it's impact on other services should be minimum (use queue systems and async call)
+If a service is not available, it's impact on other services should be minimum.
 
 ### Avoid Complexity
+Software development is hard enough. Thats why we wanna do things simple.
 
 ### Monitor The Business
+Business decisions need data to back them up, so we monitor.
 
-### Focus On Our Business
-
-### Reactive Manifesto
-Developing systems according to Reactive Manifesto (http://www.reactivemanifesto.org/) allows us to create flexible, loosely-coupled and scalable applications.
-Reactive Programming combined with Reactive Systems Design is a main tools for dealing with technical problems on backend which occurs when data and load is constantly growing and high availability is required.
+### Be Reactive
+We develop systems according to the Reactive Manifesto. That makes us more flexible and scalable.
 
 
 ## Design And Delivery
@@ -49,11 +48,13 @@ Reactive Programming combined with Reactive Systems Design is a main tools for d
 Then promote them globally. We don't want to put more constraint on our teams than necessary.
 
 ### Measure All Things
+Decoupled architectures are hard to understand. By measuring all of that we try understand and anticipate.
 
-
-### You Build It, You Run It
+### You Build It. You Run It.
+Its hard to throw things over the fence when there is no one at the other side. Therefore we feel responsible from the beginning to the end.
 
 ### API First
+We design our APIs and don't improvise them.
 
 ### Automate Everything
 We keep reptitive work to a minimum and build automation into our tools whenever and wherever its feasible.
