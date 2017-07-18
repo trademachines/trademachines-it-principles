@@ -27,10 +27,11 @@ We don't know everything. That's why constantly learning is important to us.
 ### AWS First
 We prefer AWS Services over self-hosted over self-built solutions to keep us focused on our domain.
 
-### Immutable Architecture
+### Immutable Infrastructure
 To avoid snowflakes, do not change your services replace them. Optimize for rebuilding not for repairing.
 
-### Decoupled Architecture
+### Decoupled - ?? 
+[Note: Not all of us have the common understanding about the term 'Decouple' - though a general notion about it is understood, a discussion was raised concerning some specific case/scenario. At least it is agreed that a failure in a service should not lead to cascading failures in other services.]
 If a service is not available, it's impact on other services should be minimum.
 
 ### Avoid Complexity
